@@ -1,0 +1,23 @@
+{
+  "name": "hmdevsite",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "host.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hunterls97/HMDevSite.git"
+  },
+  "author": "Hunter Schofield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hunterls97/HMDevSite/issues"
+  },
+  "homepage": "https://github.com/hunterls97/HMDevSite#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {}
+}
